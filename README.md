@@ -1,7 +1,8 @@
 # Ta-_ka-t_makas
 Bilgisayarla taş kağıt makas oyna  
 ## How to Run  
-<pre>    git clone https://github.com/roksandeveci/number-guessing-game     </pre> 
+<pre>    git clone https://github.com/roksandeveci/Ta-_ka-t_makas
+    </pre> 
 <pre> cd Ta-_ka-t_makas      </pre>  
 <pre>  python app.py    </pre>  
 ## Usage  
