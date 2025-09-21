@@ -1,0 +1,1 @@
+Sadece Python 3.13.5 gerekli.
