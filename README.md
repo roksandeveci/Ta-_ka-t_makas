@@ -1,9 +1,9 @@
 # Ta-_ka-t_makas
 Bilgisayarla taş kağıt makas oyna  
 ## How to Run  
-'''    git clone https://github.com/roksandeveci/number-guessing-game     '''  
-''' cd Ta-_ka-t_makas      '''  
-'''  python app.py    '''  
+<pre>    git clone https://github.com/roksandeveci/number-guessing-game     </pre> 
+<pre> cd Ta-_ka-t_makas      </pre>  
+<pre>  python app.py    </pre>  
 ## Usage  
 Taş, kağıt veya makası seç ve bilgisayarla yarış. Skor kaydedilir.  
 # Example  
